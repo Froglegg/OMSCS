@@ -1,0 +1,14 @@
+# Ignore everything
+*
+# Allow directories
+!*/
+# Allow files with an extension
+!*.*
+# but ignore .out executables
+*.out
+# ignore any vscode stuff
+.vscode
+#ignore debug dSYM stuff
+*.dSYM
+# mac
+.DS_Store
