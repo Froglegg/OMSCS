@@ -1,0 +1,3 @@
+[submodule "GIOS/hello_world/munit"]
+	path = GIOS/hello_world/munit
+	url = git@github.com:nemequ/munit.git
